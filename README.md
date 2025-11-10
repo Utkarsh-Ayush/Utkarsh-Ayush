@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">A passionate final-year Computer Science Engineer with a strong command of Java, C, C++ and Python. Experi enced in developing and delivering major projects utilizing Python, AI, HTML, CSS, JavaScript and React. Skilled in problem-solving and creative solution design, with a goal of excelling as a proficient programmer and developer</h3>
+<h3 align="center">A passionate final-year Computer Science Engineer with a strong command of Java, C, C++ and Python. Experienced in developing and delivering major projects utilizing Python, AI, HTML, CSS, JavaScript and React. Skilled in problem-solving and creative solution design, with a goal of excelling as a proficient programmer and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-ayush" /> </p>
 
